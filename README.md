@@ -26,6 +26,6 @@
 ## 5. technical set
     > RDBMS
     > Ajax
-    > Library : Google Chart
+    > Library : jquery
 
 
