@@ -14,7 +14,8 @@
     > *영화 퀴즈 사이트
     
 ## 4. preview
+![login](https://user-images.githubusercontent.com/43268924/64932117-ce93a080-d877-11e9-81ce-d05aa092f5d1.png)
 ![main](https://user-images.githubusercontent.com/43268924/64932115-cdfb0a00-d877-11e9-9f52-3d760df17b8b.png)
 ![page](https://user-images.githubusercontent.com/43268924/64932116-ce93a080-d877-11e9-965e-7a27b401e5e7.png)
-![login](https://user-images.githubusercontent.com/43268924/64932117-ce93a080-d877-11e9-81ce-d05aa092f5d1.png)
+
 
